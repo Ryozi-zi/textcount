@@ -7,3 +7,7 @@ textarea {
 [v-cloak]{
   display: none;
 }
+
+.row {
+  text-align: center;
+}
