@@ -7,3 +7,7 @@ textarea {
 [v-cloak]{
   display: none;
 }
+
+h1 {
+  margin-top: 8vh;
+}
